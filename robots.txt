@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.fryspotguide.com/sitemap.xml
+Sitemap: https://burger-king-nine-hazel.vercel.app/sitemap.xml
